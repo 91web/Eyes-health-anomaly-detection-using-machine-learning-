@@ -141,7 +141,7 @@ function getDiagnosis(percentage) {
         return "Poor Eyes Sight. We recommend you see an eye doctor." +
         "It seems you're experiencing poor eyesight, it's important to seek professional help from an eye doctor. Vision problems can stem from a variety of underlying causes, and an eye doctor can conduct a thorough examination to diagnose any issues accurately. Early detection and treatment can help preserve your vision and prevent further complications. Don't hesitate to schedule an appointment with an optometrist or ophthalmologist for a comprehensive eye exam.";
     } else if (percentage < 60) {
-        return "AveragevEyes Sight. Include foods rich in Vitamin A (carrots, spinach) in your diet." +
+        return "Average giEyes Sight. Include foods rich in Vitamin A (carrots, spinach) in your diet." +
         "maintaining a healthy diet can help preserve your vision. Including foods rich in Vitamin A, such as carrots and spinach, can be beneficial for eye health. Vitamin A plays a crucial role in maintaining good vision, particularly in low-light conditions, and supports the overall health of the eyes. A balanced diet with these nutrient-dense foods can contribute to long-term eye wellness.";
     } else if (percentage < 70) {
         return "Good Eyes Sight. Avoid habits that can harm your eyesight (e.g., staring at screens too long)." +
